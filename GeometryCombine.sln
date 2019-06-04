@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1GeometryGroup", "GeometryCombine\1GeometryGroup.csproj", "{EE19599A-FFB1-4F20-9702-011AF9BF50BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2GeometryCombineSmple", "GeometryCombineSmple\2GeometryCombineSmple.csproj", "{E1C67983-830B-4B46-BE88-7141B548624D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3GeometryFewShapes", "GeometryFewShapes\3GeometryFewShapes.csproj", "{96284B28-713E-4414-96C0-137A128CF4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE19599A-FFB1-4F20-9702-011AF9BF50BF}.Debug|x86.ActiveCfg = Debug|x86
+		{EE19599A-FFB1-4F20-9702-011AF9BF50BF}.Debug|x86.Build.0 = Debug|x86
+		{EE19599A-FFB1-4F20-9702-011AF9BF50BF}.Release|x86.ActiveCfg = Release|x86
+		{EE19599A-FFB1-4F20-9702-011AF9BF50BF}.Release|x86.Build.0 = Release|x86
+		{E1C67983-830B-4B46-BE88-7141B548624D}.Debug|x86.ActiveCfg = Debug|x86
+		{E1C67983-830B-4B46-BE88-7141B548624D}.Debug|x86.Build.0 = Debug|x86
+		{E1C67983-830B-4B46-BE88-7141B548624D}.Release|x86.ActiveCfg = Release|x86
+		{E1C67983-830B-4B46-BE88-7141B548624D}.Release|x86.Build.0 = Release|x86
+		{96284B28-713E-4414-96C0-137A128CF4BB}.Debug|x86.ActiveCfg = Debug|x86
+		{96284B28-713E-4414-96C0-137A128CF4BB}.Debug|x86.Build.0 = Debug|x86
+		{96284B28-713E-4414-96C0-137A128CF4BB}.Release|x86.ActiveCfg = Release|x86
+		{96284B28-713E-4414-96C0-137A128CF4BB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
